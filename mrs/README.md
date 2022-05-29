@@ -2,7 +2,7 @@
 # About The Project
 * Movie Recommendation system project build during Microsoft Engage 2022 Program.
 * A recommendation system provides suggestions to the users through a filtering process that is based on user preferences and browsing history.
-* Why I Set Out To Create This
+*Why I Set Out To Create This
 I feel that recommendation systems would have significant influence on application access and usage, and it is critical that user maintains their interest in the application.we need to display users trending  information or stuff that they could enjoy in order to keep them interested in our app. 
 
 # Technologies used
@@ -25,10 +25,10 @@ I feel that recommendation systems would have significant influence on applicati
 * IMDB Ratings⭐
 
 # Getting Started
-# To install and run the project on your local host perform the following steps:
-Make sure to install required dependicies and libraries.
-Run the  following command to start the application
- #command- streamlit run app.py
+# To install and run the project on your local system perform the following steps:
+ Make sure to install required dependicies and libraries.
+# Run the  following command to start the application.
+ command- streamlit run app.py
 
 
 # ScreenShots
