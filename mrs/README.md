@@ -2,8 +2,8 @@
 # About The Project
 * Movie Recommendation system project build during Microsoft Engage 2022 Program.
 * A recommendation system provides suggestions to the users through a filtering process that is based on user preferences and browsing history.
-*Why I Set Out To Create This
-I feel that recommendation systems would have significant influence on application access and usage, and it is critical that user maintains their interest in the application.we need to display users trending  information or stuff that they could enjoy in order to keep them interested in our app. 
+*  Why I Set Out To Create This?
+ I feel that recommendation systems would have significant influence on application access and usage, and it is critical that user maintains their interest in the application.we need to display users trending  information or stuff that they could enjoy in order to keep them interested in our app. 
 
 # Technologies used
 ![image](https://user-images.githubusercontent.com/83304080/170838456-19d2985e-3820-4bf1-8781-ff0934e346c6.png)
