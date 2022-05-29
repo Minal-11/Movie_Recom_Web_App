@@ -3,4 +3,4 @@
        Movie Recommendation System
        Detail Description of the Project is  available in README.md fie  present in the mrs  folder.
        
-   # Hoped you liked it.
+   # Hope you liked it.
